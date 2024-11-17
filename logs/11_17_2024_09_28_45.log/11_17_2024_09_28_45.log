@@ -1,0 +1,22 @@
+[ 2024-11-17 09:28:45,822 ] 148 numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[ 2024-11-17 09:28:45,825 ] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2024-11-17 09:28:47,876 ] 26 root - INFO - read the data
+[ 2024-11-17 09:28:47,889 ] 29 root - INFO - create a directory
+[ 2024-11-17 09:28:47,889 ] 33 root - INFO - split the train and test data
+[ 2024-11-17 09:28:47,889 ] 36 root - INFO - passed the train data to the particular train path
+[ 2024-11-17 09:28:47,889 ] 39 root - INFO - passed the test data to the particular test path
+[ 2024-11-17 09:28:47,889 ] 42 root - INFO - return the train and test data for the next preocess
+[ 2024-11-17 09:28:47,968 ] 57 root - INFO - Reading train data from:      Unnamed: 0  Gender Married Dependents  ... Loan_Amount_Term Credit_History  Property_Area  Loan_Status
+210         390    Male      No         3+  ...            360.0            1.0          Rural            Y
+99          194    Male      No          0  ...            360.0            1.0          Rural            Y
+264         498    Male     Yes          1  ...            360.0            1.0      Semiurban            Y
+55          104    Male     NaN        NaN  ...            360.0            1.0          Urban            Y
+70          136  Female     Yes          0  ...            360.0            1.0          Rural            N
+..          ...     ...     ...        ...  ...              ...            ...            ...          ...
+30           55    Male     Yes          2  ...            360.0            1.0      Semiurban            Y
+137         265    Male      No          0  ...            360.0            1.0          Rural            Y
+207         386    Male      No          0  ...            360.0            1.0      Semiurban            Y
+160         301    Male     Yes        NaN  ...            360.0            1.0      Semiurban            Y
+6            10    Male     Yes          2  ...            360.0            1.0          Urban            Y
+
+[254 rows x 13 columns]

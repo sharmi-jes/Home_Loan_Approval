@@ -1,0 +1,18 @@
+[ 2024-11-17 14:57:36,079 ] 148 numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[ 2024-11-17 14:57:36,082 ] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2024-11-17 14:57:38,968 ] 29 root - INFO - read the data
+[ 2024-11-17 14:57:38,974 ] 32 root - INFO - create a directory
+[ 2024-11-17 14:57:38,984 ] 36 root - INFO - split the train and test data
+[ 2024-11-17 14:57:38,984 ] 39 root - INFO - passed the train data to the particular train path
+[ 2024-11-17 14:57:38,984 ] 42 root - INFO - passed the test data to the particular test path
+[ 2024-11-17 14:57:38,984 ] 45 root - INFO - return the train and test data for the next preocess
+[ 2024-11-17 14:57:39,000 ] 98 root - INFO - Creating preprocessor object
+[ 2024-11-17 14:57:39,000 ] 104 root - INFO - Separating input features and target column
+[ 2024-11-17 14:57:39,003 ] 111 root - INFO - Applying preprocessor to train and test data
+[ 2024-11-17 14:57:39,022 ] 115 root - INFO - Combining transformed data with target
+[ 2024-11-17 14:57:39,028 ] 119 root - INFO - Saving the preprocessor object
+[ 2024-11-17 14:57:39,037 ] 41 root - INFO - gwt the best score
+[ 2024-11-17 14:57:39,044 ] 45 root - INFO - get the model name
+[ 2024-11-17 14:57:39,044 ] 53 root - INFO - check the relation
+[ 2024-11-17 14:57:39,044 ] 57 root - INFO - we found a good score both on traina nd test data
+[ 2024-11-17 14:57:39,044 ] 64 root - INFO - preidted the model

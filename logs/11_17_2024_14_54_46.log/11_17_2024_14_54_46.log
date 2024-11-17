@@ -1,0 +1,13 @@
+[ 2024-11-17 14:54:47,185 ] 148 numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[ 2024-11-17 14:54:47,187 ] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2024-11-17 14:54:50,131 ] 29 root - INFO - read the data
+[ 2024-11-17 14:54:50,156 ] 32 root - INFO - create a directory
+[ 2024-11-17 14:54:50,174 ] 36 root - INFO - split the train and test data
+[ 2024-11-17 14:54:50,184 ] 39 root - INFO - passed the train data to the particular train path
+[ 2024-11-17 14:54:50,190 ] 42 root - INFO - passed the test data to the particular test path
+[ 2024-11-17 14:54:50,193 ] 45 root - INFO - return the train and test data for the next preocess
+[ 2024-11-17 14:54:50,193 ] 98 root - INFO - Creating preprocessor object
+[ 2024-11-17 14:54:50,195 ] 104 root - INFO - Separating input features and target column
+[ 2024-11-17 14:54:50,198 ] 111 root - INFO - Applying preprocessor to train and test data
+[ 2024-11-17 14:54:50,232 ] 115 root - INFO - Combining transformed data with target
+[ 2024-11-17 14:54:50,234 ] 119 root - INFO - Saving the preprocessor object
