@@ -1,0 +1,29 @@
+[ 2024-11-19 12:33:32,234 ] 148 numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[ 2024-11-19 12:33:32,234 ] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2024-11-19 12:33:32,238 ] 148 numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[ 2024-11-19 12:33:32,238 ] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2024-11-19 12:33:32,382 ] 148 numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[ 2024-11-19 12:33:32,384 ] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2024-11-19 12:33:34,282 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2024-11-19 12:33:34,284 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2024-11-19 12:33:34,292 ] 224 werkzeug - INFO -  * Debugger PIN: 379-281-516
+[ 2024-11-19 12:33:34,293 ] 224 werkzeug - INFO -  * Debugger PIN: 379-281-516
+[ 2024-11-19 12:33:34,399 ] 224 werkzeug - INFO -  * Detected change in 'D:\\RESUME ML PROJECTS\\Home Loan Approval\\src\\utils.py', reloading
+[ 2024-11-19 12:33:34,400 ] 224 werkzeug - INFO -  * Detected change in 'D:\\RESUME ML PROJECTS\\Home Loan Approval\\src\\utils.py', reloading
+[ 2024-11-19 12:33:34,406 ] 224 werkzeug - INFO -  * Detected change in 'D:\\RESUME ML PROJECTS\\Home Loan Approval\\src\\utils.py', reloading
+[ 2024-11-19 12:33:34,406 ] 224 werkzeug - INFO -  * Detected change in 'd:\\resume ml projects\\home loan approval\\src\\utils.py', reloading
+[ 2024-11-19 12:33:34,406 ] 224 werkzeug - INFO -  * Detected change in 'D:\\RESUME ML PROJECTS\\Home Loan Approval\\src\\utils.py', reloading
+[ 2024-11-19 12:33:34,406 ] 224 werkzeug - INFO -  * Detected change in 'd:\\resume ml projects\\home loan approval\\src\\utils.py', reloading
+[ 2024-11-19 12:33:34,406 ] 224 werkzeug - INFO -  * Detected change in 'D:\\RESUME ML PROJECTS\\Home Loan Approval\\src\\utils.py', reloading
+[ 2024-11-19 12:33:34,406 ] 224 werkzeug - INFO -  * Detected change in 'd:\\resume ml projects\\home loan approval\\src\\utils.py', reloading
+[ 2024-11-19 12:33:34,406 ] 224 werkzeug - INFO -  * Detected change in 'd:\\resume ml projects\\home loan approval\\src\\utils.py', reloading
+[ 2024-11-19 12:33:34,408 ] 224 werkzeug - INFO -  * Detected change in 'D:\\RESUME ML PROJECTS\\Home Loan Approval\\src\\utils.py', reloading
+[ 2024-11-19 12:33:34,413 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2024-11-19 12:33:34,426 ] 224 werkzeug - INFO -  * Debugger PIN: 379-281-516
+[ 2024-11-19 12:33:37,059 ] 224 werkzeug - INFO -  * Detected change in 'd:\\resume ml projects\\home loan approval\\src\\utils.py', reloading
+[ 2024-11-19 12:33:37,060 ] 224 werkzeug - INFO -  * Detected change in 'D:\\RESUME ML PROJECTS\\Home Loan Approval\\src\\utils.py', reloading
+[ 2024-11-19 12:33:37,060 ] 224 werkzeug - INFO -  * Detected change in 'd:\\resume ml projects\\home loan approval\\src\\utils.py', reloading
+[ 2024-11-19 12:33:37,064 ] 224 werkzeug - INFO -  * Detected change in 'D:\\RESUME ML PROJECTS\\Home Loan Approval\\src\\utils.py', reloading
+[ 2024-11-19 12:33:37,064 ] 224 werkzeug - INFO -  * Detected change in 'd:\\resume ml projects\\home loan approval\\src\\utils.py', reloading
+[ 2024-11-19 12:33:37,067 ] 224 werkzeug - INFO -  * Detected change in 'D:\\RESUME ML PROJECTS\\Home Loan Approval\\src\\utils.py', reloading
+[ 2024-11-19 12:33:37,067 ] 224 werkzeug - INFO -  * Detected change in 'd:\\resume ml projects\\home loan approval\\src\\utils.py', reloading

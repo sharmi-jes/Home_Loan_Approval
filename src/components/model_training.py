@@ -41,51 +41,51 @@ class ModelTrainer:
         }
 
         # Define parameter grids
-         params = {
-            "Logistic Regression": [
-                {
-                    "C": [0.1, 1, 10, 100],
-                    "penalty": ["l1", "l2"],
-                    "solver": ["liblinear"]
-                },
-                {
-                    "C": [0.1, 1, 10, 100],
-                    "penalty": ["l2"],
-                    "solver": ["newton-cg", "lbfgs", "saga"]
-                },
-                {
-                    "C": [0.1, 1, 10, 100],
-                    "penalty": ["elasticnet"],
-                    "solver": ["saga"],
-                    "l1_ratio": [0.5]
-                }
-            ],
-            "Random Forest": {
-                "n_estimators": [50, 100, 200],
-                "max_depth": [None, 10, 20, 30],
-                "min_samples_split": [2, 5, 10],
-                "min_samples_leaf": [1, 2, 4]
-            },
-            "AdaBoost": {
-                "n_estimators": [50, 100, 200],
-                "learning_rate": [0.01, 0.1, 0.5, 1.0]
-            },
-            "Gradient Boosting": {
-                "n_estimators": [50, 100, 200],
-                "learning_rate": [0.01, 0.1, 0.2],
-                "max_depth": [3, 5, 7],
-                "min_samples_split": [2, 5, 10]
-            },
-            "SVC": {
-                "C": [0.1, 1, 10, 100],
-                "kernel": ["linear", "rbf", "poly", "sigmoid"],
-                "gamma": ["scale", "auto"],
-                "degree": [2, 3, 4]
-            }
-        }
+        #  params = {
+        #     "Logistic Regression": [
+        #         {
+        #             "C": [0.1, 1, 10, 100],
+        #             "penalty": ["l1", "l2"],
+        #             "solver": ["liblinear"]
+        #         },
+        #         {
+        #             "C": [0.1, 1, 10, 100],
+        #             "penalty": ["l2"],
+        #             "solver": ["newton-cg", "lbfgs", "saga"]
+        #         },
+        #         {
+        #             "C": [0.1, 1, 10, 100],
+        #             "penalty": ["elasticnet"],
+        #             "solver": ["saga"],
+        #             "l1_ratio": [0.5]
+        #         }
+        #     ],
+        #     "Random Forest": {
+        #         "n_estimators": [50, 100, 200],
+        #         "max_depth": [None, 10, 20, 30],
+        #         "min_samples_split": [2, 5, 10],
+        #         "min_samples_leaf": [1, 2, 4]
+        #     },
+        #     "AdaBoost": {
+        #         "n_estimators": [50, 100, 200],
+        #         "learning_rate": [0.01, 0.1, 0.5, 1.0]
+        #     },
+        #     "Gradient Boosting": {
+        #         "n_estimators": [50, 100, 200],
+        #         "learning_rate": [0.01, 0.1, 0.2],
+        #         "max_depth": [3, 5, 7],
+        #         "min_samples_split": [2, 5, 10]
+        #     },
+        #     "SVC": {
+        #         "C": [0.1, 1, 10, 100],
+        #         "kernel": ["linear", "rbf", "poly", "sigmoid"],
+        #         "gamma": ["scale", "auto"],
+        #         "degree": [2, 3, 4]
+        #     }
+        # }
 
         # Evaluate models with parameters
-         model_report: dict = evaluate(x_train, y_train, x_test, y_test, models, params)
+         model_report: dict = evaluate(x_train, y_train, x_test, y_test, models)
 
         # Log and print the best score
          logging.info("Get the best score")

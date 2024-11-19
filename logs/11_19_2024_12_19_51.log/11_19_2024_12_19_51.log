@@ -1,0 +1,7 @@
+[ 2024-11-19 12:19:52,249 ] 148 numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[ 2024-11-19 12:19:52,249 ] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2024-11-19 12:19:54,323 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2024-11-19 12:19:54,334 ] 224 werkzeug - INFO -  * Debugger PIN: 379-281-516
+[ 2024-11-19 12:21:30,825 ] 224 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Scripts\\pip-script.py', reloading
+[ 2024-11-19 12:21:31,107 ] 224 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\pip\\_vendor\\pyparsing\\core.py', reloading
+[ 2024-11-19 12:21:31,173 ] 224 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\pip\\_vendor\\packaging\\markers.py', reloading

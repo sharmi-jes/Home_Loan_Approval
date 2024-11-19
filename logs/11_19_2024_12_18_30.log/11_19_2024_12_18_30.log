@@ -1,0 +1,22 @@
+[ 2024-11-19 12:18:31,784 ] 148 numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[ 2024-11-19 12:18:31,784 ] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2024-11-19 12:18:34,766 ] 224 werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.55.102:5000
+[ 2024-11-19 12:18:34,766 ] 224 werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[ 2024-11-19 12:18:34,785 ] 224 werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+[ 2024-11-19 12:21:31,134 ] 224 werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+[ 2024-11-19 12:21:58,151 ] 224 werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+[ 2024-11-19 12:22:12,070 ] 224 werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+[ 2024-11-19 12:26:21,029 ] 224 werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+[ 2024-11-19 12:31:19,932 ] 224 werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+[ 2024-11-19 12:32:51,341 ] 224 werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+[ 2024-11-19 12:32:58,423 ] 224 werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+[ 2024-11-19 12:33:11,309 ] 224 werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+[ 2024-11-19 12:33:18,141 ] 224 werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+[ 2024-11-19 12:33:25,962 ] 224 werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+[ 2024-11-19 12:33:30,912 ] 224 werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+[ 2024-11-19 12:33:35,786 ] 224 werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+[ 2024-11-19 12:34:07,674 ] 224 werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+[ 2024-11-19 12:37:44,493 ] 224 werkzeug - INFO -  * Restarting with watchdog (windowsapi)

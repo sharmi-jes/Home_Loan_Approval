@@ -1,0 +1,37 @@
+[ 2024-11-19 12:34:08,758 ] 148 numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[ 2024-11-19 12:34:08,758 ] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2024-11-19 12:34:08,996 ] 148 numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[ 2024-11-19 12:34:08,996 ] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2024-11-19 12:34:09,000 ] 148 numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[ 2024-11-19 12:34:09,000 ] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2024-11-19 12:34:10,689 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2024-11-19 12:34:10,698 ] 224 werkzeug - INFO -  * Debugger PIN: 379-281-516
+[ 2024-11-19 12:34:10,944 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2024-11-19 12:34:10,945 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2024-11-19 12:34:10,954 ] 224 werkzeug - INFO -  * Debugger PIN: 379-281-516
+[ 2024-11-19 12:34:10,958 ] 224 werkzeug - INFO -  * Debugger PIN: 379-281-516
+[ 2024-11-19 12:35:13,111 ] 224 werkzeug - INFO - 127.0.0.1 - - [19/Nov/2024 12:35:13] "GET /predictdata HTTP/1.1" 200 -
+[ 2024-11-19 12:35:31,721 ] 69 root - INFO - Creating a DataFrame from the input data
+[ 2024-11-19 12:35:31,721 ] 25 root - INFO - Loading the model and preprocessor for prediction
+[ 2024-11-19 12:35:31,892 ] 30 root - INFO - Model type: <class 'sklearn.linear_model._logistic.LogisticRegression'>
+[ 2024-11-19 12:35:31,892 ] 31 root - INFO - Preprocessor type: <class 'sklearn.compose._column_transformer.ColumnTransformer'>
+[ 2024-11-19 12:35:31,892 ] 34 root - INFO - Transforming features using the preprocessor
+[ 2024-11-19 12:35:31,902 ] 38 root - INFO - Transformed data shape: (1, 20)
+[ 2024-11-19 12:35:31,902 ] 41 root - INFO - Making predictions using the model
+[ 2024-11-19 12:35:31,902 ] 45 root - INFO - Prediction: ['Y']
+[ 2024-11-19 12:35:31,904 ] 224 werkzeug - INFO - 127.0.0.1 - - [19/Nov/2024 12:35:31] "POST /predictdata HTTP/1.1" 200 -
+[ 2024-11-19 12:37:43,747 ] 224 werkzeug - INFO -  * Detected change in 'd:\\resume ml projects\\home loan approval\\app.py', reloading
+[ 2024-11-19 12:37:43,752 ] 224 werkzeug - INFO -  * Detected change in 'd:\\resume ml projects\\home loan approval\\app.py', reloading
+[ 2024-11-19 12:37:43,752 ] 224 werkzeug - INFO -  * Detected change in 'D:\\RESUME ML PROJECTS\\Home Loan Approval\\app.py', reloading
+[ 2024-11-19 12:37:43,752 ] 224 werkzeug - INFO -  * Detected change in 'D:\\RESUME ML PROJECTS\\Home Loan Approval\\app.py', reloading
+[ 2024-11-19 12:37:43,752 ] 224 werkzeug - INFO -  * Detected change in 'd:\\resume ml projects\\home loan approval\\app.py', reloading
+[ 2024-11-19 12:37:43,752 ] 224 werkzeug - INFO -  * Detected change in 'D:\\RESUME ML PROJECTS\\Home Loan Approval\\app.py', reloading
+[ 2024-11-19 12:37:43,752 ] 224 werkzeug - INFO -  * Detected change in 'D:\\RESUME ML PROJECTS\\Home Loan Approval\\app.py', reloading
+[ 2024-11-19 12:37:43,756 ] 224 werkzeug - INFO -  * Detected change in 'd:\\resume ml projects\\home loan approval\\app.py', reloading
+[ 2024-11-19 12:37:43,756 ] 224 werkzeug - INFO -  * Detected change in 'd:\\resume ml projects\\home loan approval\\app.py', reloading
+[ 2024-11-19 12:37:43,756 ] 224 werkzeug - INFO -  * Detected change in 'D:\\RESUME ML PROJECTS\\Home Loan Approval\\app.py', reloading
+[ 2024-11-19 12:37:43,756 ] 224 werkzeug - INFO -  * Detected change in 'D:\\RESUME ML PROJECTS\\Home Loan Approval\\app.py', reloading
+[ 2024-11-19 12:37:43,756 ] 224 werkzeug - INFO -  * Detected change in 'd:\\resume ml projects\\home loan approval\\app.py', reloading
+[ 2024-11-19 12:37:43,756 ] 224 werkzeug - INFO -  * Detected change in 'D:\\RESUME ML PROJECTS\\Home Loan Approval\\app.py', reloading
+[ 2024-11-19 12:37:43,756 ] 224 werkzeug - INFO -  * Detected change in 'd:\\resume ml projects\\home loan approval\\app.py', reloading
+[ 2024-11-19 12:37:43,759 ] 224 werkzeug - INFO -  * Detected change in 'd:\\resume ml projects\\home loan approval\\app.py', reloading

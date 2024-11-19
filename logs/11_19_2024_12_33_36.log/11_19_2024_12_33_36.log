@@ -1,0 +1,10 @@
+[ 2024-11-19 12:33:37,125 ] 148 numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[ 2024-11-19 12:33:37,125 ] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2024-11-19 12:33:37,130 ] 148 numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[ 2024-11-19 12:33:37,130 ] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2024-11-19 12:33:39,122 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2024-11-19 12:33:39,125 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2024-11-19 12:33:39,130 ] 224 werkzeug - INFO -  * Debugger PIN: 379-281-516
+[ 2024-11-19 12:33:39,134 ] 224 werkzeug - INFO -  * Debugger PIN: 379-281-516
+[ 2024-11-19 12:34:06,735 ] 224 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\sklearn\\ensemble\\_weight_boosting.py', reloading
+[ 2024-11-19 12:34:06,735 ] 224 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\sklearn\\ensemble\\_weight_boosting.py', reloading

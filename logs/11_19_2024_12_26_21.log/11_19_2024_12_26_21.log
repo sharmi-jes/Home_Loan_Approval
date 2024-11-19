@@ -1,0 +1,26 @@
+[ 2024-11-19 12:26:22,264 ] 148 numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[ 2024-11-19 12:26:22,266 ] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2024-11-19 12:26:22,343 ] 148 numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[ 2024-11-19 12:26:22,343 ] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2024-11-19 12:26:22,459 ] 148 numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[ 2024-11-19 12:26:22,459 ] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2024-11-19 12:26:24,145 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2024-11-19 12:26:24,158 ] 224 werkzeug - INFO -  * Debugger PIN: 379-281-516
+[ 2024-11-19 12:26:24,200 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2024-11-19 12:26:24,208 ] 224 werkzeug - INFO -  * Debugger PIN: 379-281-516
+[ 2024-11-19 12:26:24,338 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2024-11-19 12:26:24,342 ] 224 werkzeug - INFO -  * Debugger PIN: 379-281-516
+[ 2024-11-19 12:31:18,629 ] 224 werkzeug - INFO -  * Detected change in 'D:\\RESUME ML PROJECTS\\Home Loan Approval\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2024-11-19 12:31:18,629 ] 224 werkzeug - INFO -  * Detected change in 'D:\\RESUME ML PROJECTS\\Home Loan Approval\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2024-11-19 12:31:18,629 ] 224 werkzeug - INFO -  * Detected change in 'd:\\resume ml projects\\home loan approval\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2024-11-19 12:31:18,630 ] 224 werkzeug - INFO -  * Detected change in 'd:\\resume ml projects\\home loan approval\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2024-11-19 12:31:18,630 ] 224 werkzeug - INFO -  * Detected change in 'd:\\resume ml projects\\home loan approval\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2024-11-19 12:31:18,630 ] 224 werkzeug - INFO -  * Detected change in 'D:\\RESUME ML PROJECTS\\Home Loan Approval\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2024-11-19 12:31:18,630 ] 224 werkzeug - INFO -  * Detected change in 'D:\\RESUME ML PROJECTS\\Home Loan Approval\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2024-11-19 12:31:18,631 ] 224 werkzeug - INFO -  * Detected change in 'D:\\RESUME ML PROJECTS\\Home Loan Approval\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2024-11-19 12:31:18,631 ] 224 werkzeug - INFO -  * Detected change in 'D:\\RESUME ML PROJECTS\\Home Loan Approval\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2024-11-19 12:31:18,631 ] 224 werkzeug - INFO -  * Detected change in 'd:\\resume ml projects\\home loan approval\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2024-11-19 12:31:18,635 ] 224 werkzeug - INFO -  * Detected change in 'd:\\resume ml projects\\home loan approval\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2024-11-19 12:31:18,635 ] 224 werkzeug - INFO -  * Detected change in 'd:\\resume ml projects\\home loan approval\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2024-11-19 12:31:18,637 ] 224 werkzeug - INFO -  * Detected change in 'D:\\RESUME ML PROJECTS\\Home Loan Approval\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2024-11-19 12:31:18,637 ] 224 werkzeug - INFO -  * Detected change in 'D:\\RESUME ML PROJECTS\\Home Loan Approval\\src\\pipeline\\predict_pipeline.py', reloading

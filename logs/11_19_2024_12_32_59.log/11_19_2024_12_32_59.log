@@ -1,0 +1,18 @@
+[ 2024-11-19 12:32:59,668 ] 148 numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[ 2024-11-19 12:32:59,668 ] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2024-11-19 12:32:59,705 ] 148 numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[ 2024-11-19 12:32:59,706 ] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2024-11-19 12:33:01,674 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2024-11-19 12:33:01,684 ] 224 werkzeug - INFO -  * Debugger PIN: 379-281-516
+[ 2024-11-19 12:33:01,696 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2024-11-19 12:33:01,714 ] 224 werkzeug - INFO -  * Debugger PIN: 379-281-516
+[ 2024-11-19 12:33:10,331 ] 224 werkzeug - INFO -  * Detected change in 'D:\\RESUME ML PROJECTS\\Home Loan Approval\\src\\utils.py', reloading
+[ 2024-11-19 12:33:10,332 ] 224 werkzeug - INFO -  * Detected change in 'd:\\resume ml projects\\home loan approval\\src\\utils.py', reloading
+[ 2024-11-19 12:33:10,338 ] 224 werkzeug - INFO -  * Detected change in 'd:\\resume ml projects\\home loan approval\\src\\utils.py', reloading
+[ 2024-11-19 12:33:10,338 ] 224 werkzeug - INFO -  * Detected change in 'd:\\resume ml projects\\home loan approval\\src\\utils.py', reloading
+[ 2024-11-19 12:33:10,338 ] 224 werkzeug - INFO -  * Detected change in 'D:\\RESUME ML PROJECTS\\Home Loan Approval\\src\\utils.py', reloading
+[ 2024-11-19 12:33:10,338 ] 224 werkzeug - INFO -  * Detected change in 'd:\\resume ml projects\\home loan approval\\src\\utils.py', reloading
+[ 2024-11-19 12:33:10,338 ] 224 werkzeug - INFO -  * Detected change in 'D:\\RESUME ML PROJECTS\\Home Loan Approval\\src\\utils.py', reloading
+[ 2024-11-19 12:33:10,340 ] 224 werkzeug - INFO -  * Detected change in 'd:\\resume ml projects\\home loan approval\\src\\utils.py', reloading
+[ 2024-11-19 12:33:10,340 ] 224 werkzeug - INFO -  * Detected change in 'D:\\RESUME ML PROJECTS\\Home Loan Approval\\src\\utils.py', reloading
+[ 2024-11-19 12:33:10,340 ] 224 werkzeug - INFO -  * Detected change in 'D:\\RESUME ML PROJECTS\\Home Loan Approval\\src\\utils.py', reloading

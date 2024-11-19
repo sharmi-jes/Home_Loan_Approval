@@ -1,0 +1,22 @@
+[ 2024-11-19 12:22:13,382 ] 148 numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[ 2024-11-19 12:22:13,382 ] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2024-11-19 12:22:13,383 ] 148 numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[ 2024-11-19 12:22:13,384 ] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2024-11-19 12:22:15,368 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2024-11-19 12:22:15,368 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2024-11-19 12:22:15,377 ] 224 werkzeug - INFO -  * Debugger PIN: 379-281-516
+[ 2024-11-19 12:22:15,377 ] 224 werkzeug - INFO -  * Debugger PIN: 379-281-516
+[ 2024-11-19 12:25:31,664 ] 224 werkzeug - INFO - 127.0.0.1 - - [19/Nov/2024 12:25:31] "GET /predictdata HTTP/1.1" 200 -
+[ 2024-11-19 12:26:19,503 ] 51 root - INFO - create a dataframe for pass to the model
+[ 2024-11-19 12:26:19,510 ] 18 root - INFO - load the model pkl and preprocesssor pkl for transform and predict data
+[ 2024-11-19 12:26:19,805 ] 21 root - INFO - apply preprocessor of features
+[ 2024-11-19 12:26:19,827 ] 23 root - INFO - predict the data
+[ 2024-11-19 12:26:19,845 ] 224 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\sklearn\\linear_model\\_base.py', reloading
+[ 2024-11-19 12:26:19,845 ] 224 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\sklearn\\linear_model\\_base.py', reloading
+[ 2024-11-19 12:26:19,846 ] 224 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\sklearn\\utils\\validation.py', reloading
+[ 2024-11-19 12:26:19,848 ] 224 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\sklearn\\utils\\validation.py', reloading
+[ 2024-11-19 12:26:19,848 ] 224 werkzeug - INFO - 127.0.0.1 - - [19/Nov/2024 12:26:19] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[ 2024-11-19 12:26:19,978 ] 224 werkzeug - INFO - 127.0.0.1 - - [19/Nov/2024 12:26:19] "GET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[ 2024-11-19 12:26:19,984 ] 224 werkzeug - INFO - 127.0.0.1 - - [19/Nov/2024 12:26:19] "GET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[ 2024-11-19 12:26:20,035 ] 224 werkzeug - INFO - 127.0.0.1 - - [19/Nov/2024 12:26:20] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2024-11-19 12:26:20,058 ] 224 werkzeug - INFO - 127.0.0.1 - - [19/Nov/2024 12:26:20] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -

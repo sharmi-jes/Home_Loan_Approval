@@ -1,0 +1,23 @@
+[ 2024-11-19 12:34:04,011 ] 148 numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[ 2024-11-19 12:34:04,011 ] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2024-11-19 12:34:06,448 ] 29 root - INFO - read the data
+[ 2024-11-19 12:34:06,473 ] 32 root - INFO - create a directory
+[ 2024-11-19 12:34:06,481 ] 36 root - INFO - split the train and test data
+[ 2024-11-19 12:34:06,486 ] 39 root - INFO - passed the train data to the particular train path
+[ 2024-11-19 12:34:06,491 ] 42 root - INFO - passed the test data to the particular test path
+[ 2024-11-19 12:34:06,493 ] 45 root - INFO - return the train and test data for the next preocess
+[ 2024-11-19 12:34:06,493 ] 98 root - INFO - Creating preprocessor object
+[ 2024-11-19 12:34:06,495 ] 104 root - INFO - Separating input features and target column
+[ 2024-11-19 12:34:06,498 ] 111 root - INFO - Applying preprocessor to train and test data
+[ 2024-11-19 12:34:06,518 ] 115 root - INFO - Combining transformed data with target
+[ 2024-11-19 12:34:06,518 ] 119 root - INFO - Saving the preprocessor object
+[ 2024-11-19 12:34:06,539 ] 44 root - INFO - Logistic Regression: Training Score = 0.8267716535433071, Testing Score = 0.828125
+[ 2024-11-19 12:34:06,732 ] 44 root - INFO - Random Forest: Training Score = 1.0, Testing Score = 0.75
+[ 2024-11-19 12:34:06,893 ] 44 root - INFO - AdaBoost: Training Score = 0.905511811023622, Testing Score = 0.78125
+[ 2024-11-19 12:34:07,057 ] 44 root - INFO - Gradient Boosting: Training Score = 0.9960629921259843, Testing Score = 0.765625
+[ 2024-11-19 12:34:07,078 ] 44 root - INFO - SVC: Training Score = 0.8267716535433071, Testing Score = 0.828125
+[ 2024-11-19 12:34:07,078 ] 91 root - INFO - Get the best score
+[ 2024-11-19 12:34:07,078 ] 96 root - INFO - Get the best model name
+[ 2024-11-19 12:34:07,084 ] 106 root - INFO - Check the relation
+[ 2024-11-19 12:34:07,084 ] 110 root - INFO - A good model has been identified for both train and test data.
+[ 2024-11-19 12:34:07,086 ] 119 root - INFO - Model predictions on test data
