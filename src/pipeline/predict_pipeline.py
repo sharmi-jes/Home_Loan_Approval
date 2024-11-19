@@ -1,6 +1,7 @@
 import sys
 import os
 from src.exception import CustomException
+from sklearn.preprocessing import StandardScaler
 from src.logger import logging
 import pandas as pd
 from src.utils import load_object

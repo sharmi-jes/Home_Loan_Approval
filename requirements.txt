@@ -3,5 +3,6 @@ numpy
 matplotlib
 seaborn
 Flask
+dill
 gunicorn
 -e .
